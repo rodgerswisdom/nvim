@@ -1,0 +1,7 @@
+{
+  "lackluster.nvim": { "branch": "main", "commit": "662fba7e6719b7afc155076385c00d79290bc347" },
+  "lazy.nvim": { "branch": "main", "commit": "d8f26efd456190241afd1b0f5235fe6fdba13d4a" },
+  "nvim-lspconfig": { "branch": "master", "commit": "d9fbdafd80350b38c15521e11e66936032ed90d1" },
+  "nvim-treesitter": { "branch": "master", "commit": "07bd1b53bf465e42d53253b48b7437892d6c45e8" },
+  "phpactor": { "branch": "master", "commit": "dd17ec45cb0b32cbbb5382b084c06a284d3d6827" }
+}
