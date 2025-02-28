@@ -33,4 +33,12 @@ return {
             require'lspconfig'.pyright.setup{}  -- Set up Pyright for Python
         end,
     },
+
+    -- TypeScript LSP Setup
+    {
+        "neovim/nvim-lspconfig",
+        config = function()
+            require'lspconfig'.ts_ls.setup{}
+        end,
+    },
 }
